@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b36eedcb-f883-4719-b01d-afb94e2134d1" name="Default Changelist" comment="" />
+    <list default="true" id="b36eedcb-f883-4719-b01d-afb94e2134d1" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1XfKmn2oRijk90jPiq24I1F4xZm" />
   <component name="ProjectViewState">
@@ -92,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581431869857</updated>
-      <workItem from="1581431877976" duration="3985000" />
+      <workItem from="1581431877976" duration="4247000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1581435306892</created>
@@ -101,11 +104,54 @@
       <option name="project" value="LOCAL" />
       <updated>1581435306892</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1581437162761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581437162761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
@@ -120,15 +166,19 @@
       <screen x="1680" y="-1440" width="1440" height="2560" />
     </state>
     <state x="2236" y="-252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1680.-1440.1440.2560/-880.-1440.2560.1440/0.0.1680.1050@1680.-1440.1440.2560" timestamp="1581433681447" />
-    <state x="1987" y="-555" key="CommitChangelistDialog2" timestamp="1581435305907">
+    <state x="1987" y="-555" key="CommitChangelistDialog2" timestamp="1581437285004">
       <screen x="1680" y="-1440" width="1440" height="2560" />
     </state>
-    <state x="1987" y="-555" key="CommitChangelistDialog2/1680.-1440.1440.2560/-880.-1440.2560.1440/0.0.1680.1050@1680.-1440.1440.2560" timestamp="1581435305907" />
+    <state x="1987" y="-555" key="CommitChangelistDialog2/1680.-1440.1440.2560/-880.-1440.2560.1440/0.0.1680.1050@1680.-1440.1440.2560" timestamp="1581437285004" />
     <state x="1909" y="-521" key="SettingsEditor" timestamp="1581434194044">
       <screen x="1680" y="-1440" width="1440" height="2560" />
     </state>
     <state x="1909" y="-521" key="SettingsEditor/1680.-1440.1440.2560/-880.-1417.2560.1417/0.23.1680.1027@1680.-1440.1440.2560" timestamp="1581433448930" />
     <state x="1909" y="-521" key="SettingsEditor/1680.-1440.1440.2560/-880.-1440.2560.1440/0.0.1680.1050@1680.-1440.1440.2560" timestamp="1581434194044" />
+    <state x="2204" y="-236" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581437406775">
+      <screen x="1680" y="-1440" width="1440" height="2560" />
+    </state>
+    <state x="2204" y="-236" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.-1440.1440.2560/-880.-1440.2560.1440/0.0.1680.1050@1680.-1440.1440.2560" timestamp="1581437406775" />
     <state x="2077" y="-396" width="645" height="472" key="find.popup" timestamp="1581434726702">
       <screen x="1680" y="-1440" width="1440" height="2560" />
     </state>
