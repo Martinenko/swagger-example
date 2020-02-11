@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="swagger-ear:ear exploded">
+    <output-path>$PROJECT_DIR$/swagger-ear/target/swagger</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>swagger-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="swagger-ear/javaeeApplication/JavaEE" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/swagger-ear/target/swagger/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/swagger-ear/src/main/application" />
+      <element id="archive" name="swagger-war.war">
+        <element id="artifact" artifact-name="swagger-war:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>

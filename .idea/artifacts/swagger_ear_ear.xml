@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="swagger-ear:ear">
+    <output-path>$PROJECT_DIR$/swagger-ear/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>swagger-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="swagger.ear">
+      <element id="artifact" artifact-name="swagger-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

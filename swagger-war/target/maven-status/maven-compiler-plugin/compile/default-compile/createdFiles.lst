@@ -1,0 +1,8 @@
+com/swagger/control/RestParam.class
+com/swagger/entity/LocaleParam.class
+com/swagger/control/ApiApplication.class
+com/swagger/entity/Language.class
+com/swagger/boundary/CellularEventsResourceDelegate.class
+com/swagger/boundary/RootResource.class
+com/swagger/entity/CompanyID.class
+com/swagger/boundary/CustomerResource.class
